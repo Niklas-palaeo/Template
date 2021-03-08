@@ -1,0 +1,6 @@
+---
+title: "Template Title"
+author: "Niklas Hausmann"
+date: "Today"
+output: 
+---
