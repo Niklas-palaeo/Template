@@ -1,11 +1,10 @@
 Package: Template
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Basic .Rmd Template for new .rmd files
+Version: 0.1.1
+Author: Niklas
+Maintainer: The package maintainer <niklas@palaeo.eu>
+Description: It just loads the libraries that I most frequently use when I start new projects.
+License: Free to use for anything
 Encoding: UTF-8
 LazyData: true

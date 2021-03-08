@@ -2,5 +2,29 @@
 title: "Template Title"
 author: "Niklas Hausmann"
 date: "Today"
-output: 
+output: pdf_document
 ---
+
+# Libraries 
+```{r}
+{
+  pacman::p_load(
+    here,
+    tidyverse,
+    cowplot,
+    patchwork,
+    RColorBrewer) 
+  
+  theme_set(theme_cowplot())
+}
+```
+
+# Data
+
+```{r}
+
+
+```
+
+
+
