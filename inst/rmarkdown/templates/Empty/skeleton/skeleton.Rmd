@@ -12,7 +12,7 @@ output: pdf_document
     here,
     janitor,
     tidyverse,
-    cowplot,
+    cowplot,ggx,
     patchwork,
     RColorBrewer) 
   
